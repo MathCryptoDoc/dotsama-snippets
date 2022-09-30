@@ -1,2 +1,5 @@
 # dotsama-snippets
-Some random stuff for dotsama
+
+Some random stuff for dotsama.
+
+From [math-crypto](www.math-crypto.com).
