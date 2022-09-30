@@ -13,3 +13,7 @@ days](https://kusama.subscan.io/validator/EARQCUK4Y3oN3LCuyjriBxPesNAuQWa7ifjsfN
 
 - Maybe there is an error in my calculations. The scores are calculated based on quantiles of everyone's inclusion. However, the scores were mostly correct 
 until 9 Sept. So something must be right.
+
+
+www.math-crypto.com -- 30 Sept 2022
+
