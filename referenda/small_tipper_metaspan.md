@@ -2,6 +2,6 @@ To put some order in the Chaos after the launch of OpenGov, derek of Metaspan ha
 
 The dashboard is accessible [here](https://metaspan.io/kusama/candidate) after you select a validator and go to the Referenda tab.
 
-![](https://raw.githubusercontent.com/MathCryptoDoc/dotsama-snippets/main/referenda/figures/metaspan-referenda-dash.png)
+![](https://github.com/MathCryptoDoc/dotsama-snippets/blob/4d1d936591d8fd98a164268123f4e1c6f46c563c/referenda/figures/metaspan_referenda-dash.png)
 
 We propose a tip of 8 KSM (about 200 USD at the time of submission) for the current version of this dashboard.
